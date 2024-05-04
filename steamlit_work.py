@@ -10,8 +10,8 @@ with st.sidebar:
     st.write("Date: ", datetime.date(2023, 7, 3))
     st.text("Description: This serves as an illustration \n for an Interactive Web Application \n for Python Project 2.")
 
-st.title("Tips")
-st.markdown("We analyze the :blue[tips] data set available in the :blue[plotly.express] package.")
+st.title("Score")
+st.markdown("We analyze the :blue[score] data set available in the :blue[plotly.express] package.")
 
 st.divider()
 
